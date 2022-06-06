@@ -17,5 +17,5 @@
 ### Want to clone this project?
 At the root folder run:
 ```
-yarn && expo start
+expo start
 ```
